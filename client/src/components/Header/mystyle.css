@@ -1,0 +1,20 @@
+
+.jumbotron {
+  background-color: #f4511e; /*orange*/
+  color: #fff;
+  padding: 100px 25px;
+  font-family: Montserrat, sans-serif;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+
+
+.input-group{
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+

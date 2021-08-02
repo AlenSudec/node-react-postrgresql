@@ -1,0 +1,17 @@
+.footer-social {
+    background: #801d1d;
+    padding: 25px 50px;
+  }
+.footer-pic{
+    padding: 5px 10px;
+    margin-right: 1em;
+    padding-left: 5%;
+}
+.footer-pic-last{
+    padding: 5px 10px;
+   
+    padding-left: 5%;
+}
+.author{
+    color: white;
+}

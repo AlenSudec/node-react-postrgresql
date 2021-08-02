@@ -1,0 +1,50 @@
+.bg-grey {
+    background-color: #f6f6f6;
+  }
+  .container-fluid{
+    padding: 60px 50px;
+}
+
+.div-link {
+    background-color: #c7afaf;
+    border: 1px solid black;
+    text-align: center;
+    display: inline-block;
+}
+
+.button-spacing{
+  padding: 5px 10px;
+  margin-right: 1em;
+ 
+}
+.button-nonselectedvar{
+  background-color: #e28a8a;
+  
+}
+.button-selectedvar{
+  background-color: #dc3545;
+}
+.button-nonselected{
+  background-color: #e28a8a;
+  
+}
+.button-selected{
+  background-color: #dc3545;
+}
+.container {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 75%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
