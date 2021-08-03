@@ -5,7 +5,8 @@ Using d3.js JavaScript library and joining it with node.js for back-end, react.j
 -Install postgreSQL and use the file in postgreSQL in restore option in pgAdmin  
 -All configurations are setup in .env files, both in client and server so change that to your liking    
 -Client : npm start  
--Server: node index.js  
+-Server: node index.js
+### Use examples that are available to download from the navbar at the right corner to see how .csv that work look.
 
 ## Pictures
 ### Platform design
